@@ -31,7 +31,7 @@ appropriate version of pytorch first (e.g. ``pip install torch``), and then::
 Usage
 -----
 
-Instructions are below. See also ``test/test_shakespeare.sh``
+Instructions are below. See also ``tests/test_shakespeare.sh``
 for a complete pipeline demo on a small corpus (takes a minute on a CPU).
 
 Prepare data for training
