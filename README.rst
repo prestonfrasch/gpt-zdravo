@@ -1,4 +1,4 @@
-Training GPT-2 transformer language model with sentencepiece tokenizer
+Training GPT-2 transformer language model with sentencepiece tokenizer (modified for Serbian Language)
 ======================================================================
 
 .. image:: https://img.shields.io/travis/lopuhin/transformer-lm/master.svg
